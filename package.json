@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "@discordjs/voice": "^0.6.0",
+    "@distube/soundcloud": "^0.2.2",
+    "@distube/spotify": "^0.6.4",
+    "discord.js": "^13.1.0",
+    "distube": "^3.0.0-beta.39",
+    "fs": "*",
+    "libsodium-wrappers": "^0.7.9"
+  }
+}
